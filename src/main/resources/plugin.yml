@@ -1,0 +1,9 @@
+name: LobbyPlugin
+version: '${project.version}'
+main: dev.kotw.lobbyplugin.Main
+authors: [ KekOnTheWorld ]
+description: Lobby plugin made by KekOnTheWorld for Hypersucht
+website: https://hypersucht.de/
+
+commands:
+  lobbysetup:

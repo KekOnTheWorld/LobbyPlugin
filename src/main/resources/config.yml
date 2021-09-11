@@ -1,0 +1,13 @@
+syntax: "§cBitte benutze §6!!0§c!"
+noPermission: "§cDir fehlen die rechte diesen Befehl auszuführen!"
+
+spawn:
+
+navigatorTitle: "§cNavigator"
+navigator:
+
+permissions:
+  setup: "lobbyplugin.setup"
+  interact: "lobbyplugin.interact"
+  drop: "lobbyplugin.drop"
+  pickup: "lobbyplugin.pickup"
